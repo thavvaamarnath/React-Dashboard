@@ -2,9 +2,9 @@ import React from 'react';
 import { Paper, Typography, Table, TableBody, TableCell, TableHead, TableRow } from '@mui/material';
 
 const userData = [
-  { name: 'Alice', email: 'alice@example.com', role: 'Admin' },
-  { name: 'Bob', email: 'bob@example.com', role: 'User' },
-  { name: 'Charlie', email: 'charlie@example.com', role: 'Moderator' },
+  { name: 'Amar', email: 'amar@gmail.com', role: 'Admin' },
+  { name: 'gani', email: 'gani@gmail.com', role: 'User' },
+  { name: 'Charan', email: 'charan@gmail.com', role: 'Moderator' },
 ];
 
 const Users = () => {
